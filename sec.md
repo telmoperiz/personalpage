@@ -1,2 +1,2 @@
-%% One section
+## One section
 Text.
