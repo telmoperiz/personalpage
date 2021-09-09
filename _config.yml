@@ -6,10 +6,11 @@ title: PAGE TITLE
 description: page description
 
 navigation:
+  - name: ONE SECTION
+    url: sec
   - name: ABOUT
-    url: about.md
-  - name: SECTION 2
-    url: sec.md
+    url: about
+
 
 github:
   is_project_page: false
