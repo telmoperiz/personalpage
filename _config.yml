@@ -4,3 +4,6 @@ plugins:
 
 title: PAGE TITLE
 description: page description
+
+github:
+  is_project_page: 0
