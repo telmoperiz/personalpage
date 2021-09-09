@@ -1,7 +1,3 @@
----
-var: hiii
----
-
 ## Welcome to GitHub Pages
 
 Link to about: [LINK](about.md).
