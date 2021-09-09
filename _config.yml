@@ -6,9 +6,10 @@ title: PAGE TITLE
 description: page description
 
 navigation:
-  about:
+  - name: ABOUT
     url: about.md
-    name: ABOUT
+  - name: SECTION 2
+    url: sec.md
 
 github:
   is_project_page: false
