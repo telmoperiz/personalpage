@@ -2,14 +2,16 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: PAGE TITLE
-description: page description
+title: TELMO PÉREZ IZQUIERDO
+description: PhD Candidate in Economics at 
 
 navigation:
-  - name: ONE SECTION
+  - name: RESEARCH
     url: sec
-  - name: ABOUT
+  - name: TEACHING
     url: about
+  - name: CV
+    url: cv
 
 
 github:
