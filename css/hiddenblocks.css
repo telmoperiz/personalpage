@@ -6,6 +6,6 @@
 display: none;
 }
 
-#demo:checked + .abstractdiv {
+#demo:checked ~ .abstractdiv {
     display: block;
 }
