@@ -39,13 +39,40 @@ dogenous regressors. <input type="checkbox" class="abstractcheckbox" id="wp1"/><
             (the capacity of the model to regularly identify the CASF) increases with the relevance 
             of the regressor and, surprisingly, with the degree of endogeneity. The impact
             of instrument strength is found to be non-monotone. Moreover, I find a threshold for
-            instrument strength below which regular identication of the CASF is not possible. </p>
+            instrument strength below which regular identification of the CASF is not possible. </p>
     </div>
     </li>
     
-    <li>sdfasfdsdf. <input type="checkbox" class="abstractcheckbox" id="wp2"/><label for="wp2">I'm a square. Click me.</label>
+    <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano). <input type="checkbox" class="abstractcheckbox" id="wp2"/><label for="wp2">View Abstract</label>
     <div class="abstractdiv">
-        <p> Hiiiii </p>
+        <p> Many economic and causal parameters of interest depend on generated regressors, including
+            structural parameters in models with endogenous variables estimated by control
+            functions and models with sample selection. Inference with generated regressors is complicated
+            by the complex expression for influence functions and asymptotic variances. We propose
+            automatic debiased GMM estimators in a general setting with generated regressors. 
+            Importantly, we allow for the generated regressors to be generated from machine learners,
+            such as Random Forest, Neural Nets, Boosting, and many others. We use our
+            results to construct debiased Doubly Robust (DR) estimators for the Counterfactural Average
+            Structural Function (CASF), and LR estimators for structural parameters and partial
+            effects in models with sample selection and endogeneity. </p>
+    </div>
+    </li> 
+    
+    <li>Identification and information in models parametrized by a Banach space. <input type="checkbox" class="abstractcheckbox" id="wp3"/>
+        <label for="wp3">View Abstract</label>
+    <div class="abstractdiv">
+        <p> This paper generalizes Escanciano (2021)’s identification result and
+        Van Der Vaart (1991)’s information result to models parametrized by a
+        Banach space. It provides a general framework to study identification
+        and its regularity (regular if the Fisher information is positive, irregular
+        if it is zero) for a wider range of problems. In particular, this paper
+        argues that non-parametric estimation of (a) the mean of a known
+        transformation and (b) the density at a point naturally give raise to a
+        Banach tangent space. Using the extended framework, the paper shows
+        that Fisher Information for estimation of the mean of a transformation
+        is zero if the transformation is not square-integrable. Information for
+        estimation of the density at a point is zero if one considers an absolutely
+        continuous (Lebesgue) density.   </p>
     </div>
     </li> 
 </ul>   
