@@ -1,6 +1,14 @@
 ---
 layout: default
 title: Research
+
+publications:
+  -title: Titleeee
+   coauthors: 
+    -E. Pronkina
+    -J.C. Escanciano
+   journal: Hi
+   year: Forthcomming
 ---
 
 ## Publications
