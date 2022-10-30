@@ -4,7 +4,7 @@ title: CV
 ---
 
 <embed
-	src="document.pdf"
+	src="files/Ejercicios-PI-2016.pdf"
 	type="application/pdf"
 	width="100%"
 	height="100%"
