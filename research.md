@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: RESEARCH
 ---
 
-## Publications
+# Publications
 Text.
 
-## Working papers
+# Working papers
