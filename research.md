@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: res
 title: Research
 publications:
     -title: Titleeee
