@@ -1,11 +1,11 @@
-imput {
-    display: none;
+.hidden_checkbox {
+ opacity = 0;   
 }
 
-.hiddendiv{
+.abstractdiv{
 display: none;
 }
 
-#demo:checked + label {
+#demo:checked + .abstractdiv {
     display: block;
 }
