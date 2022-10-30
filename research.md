@@ -22,18 +22,18 @@ publications:
 
 
 ## Working papers
-* Blablabla title. <input type="checkbox" class="hidden_checkbox" id="demo"/>
-<label for="demo">I'm a square. Click me.</label>
+* Blablabla title. <label for="demo">I'm a square. Click me.</label><input type="checkbox" class="hidden_checkbox" id="demo"/>
+
 
 <div class="abstractdiv">
     <p> Hiiiii 111 </p>
-</div
+</div>
 
 * sdfasfdsdf. <input type="checkbox" class="hidden_checkbox" id="demo"/>
 <label for="demo">I'm a square. Click me.</label>
-<div class="abstractdiv" >
+<div class="abstractdiv">
     <p> Hiiiii </p>
-</div
+</div>
 
 asdfsdjkdfasdfs
 
