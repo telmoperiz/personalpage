@@ -22,18 +22,19 @@ publications:
 
 
 ## Working papers
-* Blablabla title. <label for="demo">I'm a square. Click me.</label><input type="checkbox" class="hidden_checkbox" id="demo"/>
-
-
-<div class="abstractdiv">
-    <p> Hiiiii 111 </p>
-</div>
-
-* sdfasfdsdf. <input type="checkbox" class="hidden_checkbox" id="demo"/>
-<label for="demo">I'm a square. Click me.</label>
-<div class="abstractdiv">
-    <p> Hiiiii </p>
-</div>
+<ul>
+    <li> Blablabla title. <label for="demo">I'm a square. Click me.</label><input type="checkbox" class="hidden_checkbox" id="demo"/>
+    <div class="abstractdiv">
+        <p> Hiiiii 111 </p>
+    </div>
+    </li>
+    
+    <li>sdfasfdsdf. <input type="checkbox" class="hidden_checkbox" id="demo"/><label for="demo">I'm a square. Click me.</label>
+    <div class="abstractdiv">
+        <p> Hiiiii </p>
+    </div>
+    </li> 
+</ul>   
 
 asdfsdjkdfasdfs
 
