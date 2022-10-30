@@ -4,6 +4,9 @@ title: Research
 ---
 
 ## Publications
-Text.
+
+{: .clicker} Click me!
+
+{: .hiddendiv} AA
 
 ## Working papers
