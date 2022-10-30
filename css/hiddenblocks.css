@@ -1,17 +1,11 @@
-.clicker {
-width:100px;
-height:100px;
-background-color:blue;
-outline:none;
-cursor:pointer;
+label {
+    display: block;
+    background: lightgrey;
+    width: 100px;
+    height: 100px;
 }
 
-.hiddendiv{
-display:none;
-height:200px;
-background-color:green;
-}
-
-.clicker:focus + .hiddendiv{
-display:block;
+#demo:checked + label {
+    background: blue;
+    color: white;
 }
