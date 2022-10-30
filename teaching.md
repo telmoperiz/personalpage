@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TEACHING
+title: Teaching
 ---
 
 ## Gradute teaching
