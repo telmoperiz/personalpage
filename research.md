@@ -18,7 +18,8 @@ publications:
 ---
 
 ## Publications
-
+* [Behind the curtain: How did women's work history vary across Central and Eastern Europe?
+](https://doi.org/10.1111/ecot.12345) (with E. Pronkina). Economics of Transition and Institutional Change. *Forthcoming*
 
 
 ## Working papers
