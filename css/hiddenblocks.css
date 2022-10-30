@@ -1,11 +1,11 @@
-label {
-    display: block;
-    background: lightgrey;
-    width: 100px;
-    height: 100px;
+imput {
+    display: none;
+}
+
+.hiddendiv{
+display: none;
 }
 
 #demo:checked + label {
-    background: blue;
-    color: white;
+    display: block;
 }
