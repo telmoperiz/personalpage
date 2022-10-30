@@ -1,10 +1,9 @@
 ---
 layout: research
 title: Research
-
 publications:
     -title: Titleeee
-    coauthors: 
+     coauthors: 
       -E. Pronkina
       -J.C. Escanciano
     journal: Hi
