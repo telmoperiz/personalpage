@@ -25,13 +25,13 @@ publications:
 * Blablabla title. <input type="checkbox" class="hidden_checkbox" id="demo"/>
 <label for="demo">I'm a square. Click me.</label>
 
-<div class="abstactdiv">
+<div class="abstractdiv">
     <p> Hiiiii 111 </p>
 </div
 
 * sdfasfdsdf. <input type="checkbox" class="hidden_checkbox" id="demo"/>
 <label for="demo">I'm a square. Click me.</label>
-<div class="abstactdiv" >
+<div class="abstractdiv" >
     <p> Hiiiii </p>
 </div
 
