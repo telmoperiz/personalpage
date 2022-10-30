@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-## Gradute teaching
+## Graduate teaching
 * TA for **Mathematics** (Fall 2019, 2020, 2021)  
   MRes in Economics Analysis (PhD Program, English)
 
