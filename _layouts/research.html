@@ -4,4 +4,11 @@ layout: default
 
 <p>Additional stuff</p>
 
+{% for paper in page.publications %}
+        <p> paper.title with </p>
+        {% for co in paper.coauthors %} co,
+        {% endfor %}
+        </p>
+{% endfor %}
+
 {{ content }}
