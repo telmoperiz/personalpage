@@ -1,5 +1,5 @@
 ---
-layout: res
+layout: default
 title: Research
 publications:
     -title: Titleeee
