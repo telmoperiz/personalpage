@@ -19,10 +19,15 @@ publications:
 
 ## Publications
 
-<input type="checkbox" id="demo"/>
-<label for="demo">I'm a square. Click me.</label>
+
 
 ## Working papers
+* Blablabla title. <input type="checkbox" id="demo"/>
+<label for="demo">I'm a square. Click me.</label>
+
+* sdfasfdsdf. <input type="checkbox" id="demo"/>
+<label for="demo">I'm a square. Click me.</label>
+
 asdfsdjkdfasdfs
 
 dfdgsds
