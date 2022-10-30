@@ -23,7 +23,7 @@ publications:
 
 ## Working papers
 <ul>
-    <li> Blablabla title. <label for="demo">I'm a square. Click me.</label><input type="checkbox" class="hidden_checkbox" id="demo"/>
+    <li> Blablabla title. <input type="checkbox" class="hidden_checkbox" id="demo"/><label for="demo">I'm a square. Click me.</label>
     <div class="abstractdiv">
         <p> Hiiiii 111 </p>
     </div>
