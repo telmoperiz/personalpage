@@ -1,9 +1,9 @@
 ---
 layout: default
-title: RESEARCH
+title: Research
 ---
 
-# Publications
+## Publications
 Text.
 
-# Working papers
+## Working papers
