@@ -25,11 +25,4 @@ publications:
 
 ## Working papers
 
-{% for paper in page.publications %}
-        <p> paper.title with </p>
-        {% for co in paper.coauthors %} co,
-        {% endfor %}
-        </p>
-{% endfor %}
-
 ## Work in progress
