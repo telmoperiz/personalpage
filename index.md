@@ -1,26 +1,19 @@
-# First section
-Here is some list:
-1. One
-2. Two
-3. Three
+---
+layout: default
+title: Home
+---
+
+# Welcome to my personal page!
+I am a PhD Candidate in Economics at [Universidad Carlos III de Madrid](http://economia.uc3m.es).
 
 And bullets:
 * A
 * B
 
-## Subsection 1 
-
-A table:
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-## Subsection 2
-
-Link to some page: [Economics Department](http://economia.uc3m.es).
+## Contact details:
+* Email: teperezi@eco.uc3m.es
+* Office 15.1.10. Department of Economics, Universidad Carlos III de Madrid
+  Calle Madrid 126, Getafe, Madrid, 28907, Spain.
 
 ### Subsubsections
 
