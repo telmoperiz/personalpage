@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-embed
+<embed
 	src="document.pdf"
 	type="application/pdf"
 	width="100%"
