@@ -19,8 +19,8 @@ publications:
 
 ## Publications
 
-<div class="clicker" tabindex="1">Click me</div>
-<div class="hiddendiv"></div>
+<input type="checkbox" id="demo"/>
+<label for="demo">I'm a square. Click me.</label>
 
 ## Working papers
 asdfsdjkdfasdfs
