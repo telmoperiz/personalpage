@@ -20,11 +20,15 @@ div.abstractbotton {
   color: #267cb9;
 }
 
+div.abstractbotton:hover {background: #eee;}
+
 div.draftbotton {
   cursor: pointer;
   display: inline-block;
   color: #267cb9;
 }
+
+div.draftbotton:hover {background: #eee;}
 
 div.commingbanner {
   display: inline-block;
