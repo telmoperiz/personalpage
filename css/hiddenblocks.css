@@ -4,9 +4,11 @@
 
 .abstractdiv{
   display: none;
-  width: 75%;
+  width: 90%;
+  margin: auto;
   border-style: none solid none solid;
   border-color: #267cb9;
+  border-width: 0.1em;
 }
 
 .abstractcheckbox:checked ~ .abstractdiv {
@@ -14,7 +16,7 @@
 }
 
 li {
-  margin-bottom:1.5em;
+  margin-bottom:1.3em;
 }
 
 p.abstractp {
