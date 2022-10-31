@@ -13,7 +13,7 @@ title: Research
     <li>The determinants of extrapolation in the binary choice model with endogenous regressors. 
         <input type="checkbox" class="abstractcheckbox" id="wp1"/>
         <label for="wp1"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
-        <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
+        <div class="draftbotton"><a href="files/wp/counterfactuals_03_02_22.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
         <div class="abstractdiv">
             <p class="abstractp"> <b>Abstract:</b> The Counterfactual Average Structural Function (CASF) is the Average Structural
             Function (ASF) averaged with respect to a counterfactual distribution of covariates.
