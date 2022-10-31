@@ -1,33 +1,22 @@
 ---
 layout: default
 title: Research
-publications:
-    -title: Titleeee
-     coauthors: 
-      -E. Pronkina
-      -J.C. Escanciano
-    journal: Hi
-    year: Forthcomming
-   
-  -title: Titleeee 2222
-    coauthors: 
-      -E. Pronkina
-      -J.C. Escanciano
-    journal: Hi
-    year: Forthcomming
 ---
 
 ## Publications
-* [Behind the curtain: How did women's work history vary across Central and Eastern Europe?
+* [**Behind the curtain: How did women's work history vary across Central and Eastern Europe?**
 ](https://doi.org/10.1111/ecot.12345) (with E. Pronkina). Economics of Transition and Institutional Change. *Forthcoming*.
 
 
 ## Working papers
 <ul>
-    <li> The determinants of extrapolation in the binary choice model with en-
-dogenous regressors. <input type="checkbox" class="abstractcheckbox" id="wp1"/><label for="wp1">View Abstract</label>
-    <div class="abstractdiv">
-        <p> The Counterfactual Average Structural Function (CASF) is the Average Structural
+    <li><b>The determinants of extrapolation in the binary choice model with en-
+        dogenous regressors. </b><br> 
+        <input type="checkbox" class="abstractcheckbox" id="wp1"/>
+        <label for="wp1"><div class="abstractbotton"> Abstract</div></label> 
+        <div class="draftbotton"> Draft</div>
+        <div class="abstractdiv">
+        <p class="abstractp"> The Counterfactual Average Structural Function (CASF) is the Average Structural
             Function (ASF) averaged with respect to a counterfactual distribution of covariates.
             In the binary choice model, the CASF measures the rate of successes in a counterfactual
             scenario. This paper shows that the CASF is non-parametrically identified
@@ -40,7 +29,7 @@ dogenous regressors. <input type="checkbox" class="abstractcheckbox" id="wp1"/><
             of the regressor and, surprisingly, with the degree of endogeneity. The impact
             of instrument strength is found to be non-monotone. Moreover, I find a threshold for
             instrument strength below which regular identification of the CASF is not possible. </p>
-    </div>
+        </div>
     </li>
     
     <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano). <input type="checkbox" class="abstractcheckbox" id="wp2"/><label for="wp2">View Abstract</label>
