@@ -15,7 +15,7 @@ title: Research
         <label for="wp1"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
         <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
         <div class="abstractdiv">
-        <p class="abstractp"> The Counterfactual Average Structural Function (CASF) is the Average Structural
+            <p class="abstractp"> <b>Abstract:</b> The Counterfactual Average Structural Function (CASF) is the Average Structural
             Function (ASF) averaged with respect to a counterfactual distribution of covariates.
             In the binary choice model, the CASF measures the rate of successes in a counterfactual
             scenario. This paper shows that the CASF is non-parametrically identified
@@ -31,12 +31,12 @@ title: Research
         </div>
     </li>
     
-    <li><b>Automatic Locally Robust Estimation with Generated Regressors </b> (with J.C. Escanciano).
+    <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano).
         <input type="checkbox" class="abstractcheckbox" id="wp2"/>
         <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
         <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft coming soon!</div>
         <div class="abstractdiv">
-        <p class="abstractp"> Many economic and causal parameters of interest depend on generated regressors, including
+        <p class="abstractp"><b>Abstract:</b> Many economic and causal parameters of interest depend on generated regressors, including
             structural parameters in models with endogenous variables estimated by control
             functions and models with sample selection. Inference with generated regressors is complicated
             by the complex expression for influence functions and asymptotic variances. We propose
@@ -49,12 +49,12 @@ title: Research
     </div>
     </li> 
     
-    <li><b>dentification and information in models parametrized by a Banach space. </b>
+    <li>Identification and information in models parametrized by a Banach space.
         <input type="checkbox" class="abstractcheckbox" id="wp3"/>
         <label for="wp3"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
         <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
         <div class="abstractdiv">
-        <p class="abstractp"> This paper generalizes Escanciano (2021)’s identification result and
+        <p class="abstractp"><b>Abstract:</b> This paper generalizes Escanciano (2021)’s identification result and
         Van Der Vaart (1991)’s information result to models parametrized by a
         Banach space. It provides a general framework to study identification
         and its regularity (regular if the Fisher information is positive, irregular
