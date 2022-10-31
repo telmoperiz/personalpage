@@ -17,7 +17,7 @@ You can find my CV in PDF [here](files/cv_Telmo_Perez.pdf).
 ### Honors and Scholarships
 * FPI Scholarship, Ministerio de Ciencia e Innovación (2019-2023).
 * Master Studies Extraordinary Price (2019).
-* Econometric Game (Finalist, 2019; Team Captain, 2020, 2021).
+* Econometric Game (Finalist, 2019; Team Captain, 2021).
 * Graduate Program Scholarship (2017-2019).  
 
 ### Programming languages
