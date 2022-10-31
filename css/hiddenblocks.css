@@ -17,13 +17,16 @@ p.abstractp {
 div.abstractbotton {
   cursor: pointer;
   display: inline-block;
+  color: #267cb9;
 }
 
 div.draftbotton {
   cursor: pointer;
   display: inline-block;
+  color: #267cb9;
 }
 
 div.commingbanner {
   display: inline-block;
+  color: #516878;
 }
