@@ -1,11 +1,27 @@
 .abstractcheckbox {
- opacity: 0;   
+  opacity: 0;   
 }
 
 .abstractdiv{
-display: none;
+  display: none;
 }
 
 .abstractcheckbox:checked ~ .abstractdiv {
-    display: block;
+  display: block;
+}
+
+p.abstractp {
+  text-align: justify; 
+}
+
+div.abstractbotton {
+  cursor: pointer;
+}
+
+div.draftbotton {
+ 
+}
+
+div.commingbotton {
+ 
 }
