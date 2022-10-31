@@ -2,13 +2,15 @@
 layout: default
 title: CV
 ---
+## Full CV
+You can find my CV in PDF [here](files/aaa.pdf).
 
-**Short CV
+## Short CV
 
-***Education
+### Education
 
-***Honors and Scholarships
+### Honors and Scholarships
 
-***Programming languages
+### Programming languages
 
-***Languages
+### Languages
