@@ -11,13 +11,15 @@
 }
 
 p.abstractp {
-  text-align: justify; 
+  text-align: justify;
+  padding: 1em;
 }
 
 div.abstractbotton {
   cursor: pointer;
   display: inline-block;
   color: #267cb9;
+  margin-right: 1em;
 }
 
 div.abstractbotton:hover {background: #eee;}
