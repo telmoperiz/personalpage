@@ -10,7 +10,7 @@ title: Research
 
 ## Working papers
 <ul>
-    <li><b>The determinants of extrapolation in the binary choice model with endogenous regressors. </b> 
+    <li>The determinants of extrapolation in the binary choice model with endogenous regressors. 
         <input type="checkbox" class="abstractcheckbox" id="wp1"/>
         <label for="wp1"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
         <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
