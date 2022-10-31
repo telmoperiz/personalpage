@@ -10,6 +10,10 @@
   display: block;
 }
 
+li {
+  margin:1em;
+}
+
 p.abstractp {
   text-align: justify;
   padding: 1em;
