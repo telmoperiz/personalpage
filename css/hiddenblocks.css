@@ -16,12 +16,14 @@ p.abstractp {
 
 div.abstractbotton {
   cursor: pointer;
+  display: inline-block;
 }
 
 div.draftbotton {
- 
+  cursor: pointer;
+  display: inline-block;
 }
 
-div.commingbotton {
- 
+div.commingbanner {
+  display: inline-block;
 }
