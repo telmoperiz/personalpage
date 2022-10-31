@@ -10,7 +10,7 @@ title: Research
 
 ## Working papers
 <ul>
-    <li><b>The determinants of extrapolation in the binary choice model with endogenous regressors. </b><br> 
+    <li><b>The determinants of extrapolation in the binary choice model with endogenous regressors. </b> 
         <input type="checkbox" class="abstractcheckbox" id="wp1"/>
         <label for="wp1"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
         <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
@@ -31,9 +31,12 @@ title: Research
         </div>
     </li>
     
-    <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano). <input type="checkbox" class="abstractcheckbox" id="wp2"/><label for="wp2">View Abstract</label>
-    <div class="abstractdiv">
-        <p> Many economic and causal parameters of interest depend on generated regressors, including
+    <li><b>Automatic Locally Robust Estimation with Generated Regressors </b> (with J.C. Escanciano).
+        <input type="checkbox" class="abstractcheckbox" id="wp2"/>
+        <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
+        <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft comming soon!</div>
+        <div class="abstractdiv">
+        <p class="abstractp"> Many economic and causal parameters of interest depend on generated regressors, including
             structural parameters in models with endogenous variables estimated by control
             functions and models with sample selection. Inference with generated regressors is complicated
             by the complex expression for influence functions and asymptotic variances. We propose
