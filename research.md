@@ -52,7 +52,7 @@ title: Research
     <li>Identification and information in models parametrized by a Banach space.
         <input type="checkbox" class="abstractcheckbox" id="wp3"/>
         <label for="wp3"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
-        <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
+        <div class="draftbotton"><a href="files/wp/II_Banach_05_10_22.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
         <div class="abstractdiv">
         <p class="abstractp"><b>Abstract:</b> This paper generalizes Escanciano (2021)’s identification result and
         Van Der Vaart (1991)’s information result to models parametrized by a
