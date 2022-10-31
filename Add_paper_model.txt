@@ -1,0 +1,21 @@
+Paper with draft:    
+    
+    <li> {{ WP TITLE }} (with {{ WP COAUTHORS }}). 
+        <input type="checkbox" class="abstractcheckbox" id="wp{{WP ID }}"/>
+        <label for="wp{{WP ID }}"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
+        <div class="draftbotton"><a href="files/wp/{{ WP PDF }}.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
+        <div class="abstractdiv">
+            <p class="abstractp"> <b>Abstract:</b> {{ WP ABSTRACT }} </p>
+        </div>
+    </li>
+    
+Paper withour draft:
+
+    <li> {{ WP TITLE }} (with {{ WP COAUTHORS }}). 
+        <input type="checkbox" class="abstractcheckbox" id="wp{{WP ID }}"/>
+        <label for="wp{{WP ID }}"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
+        <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft coming soon!</div>
+        <div class="abstractdiv">
+            <p class="abstractp"> <b>Abstract:</b> {{ WP ABSTRACT }} </p>
+        </div>
+    </li>
