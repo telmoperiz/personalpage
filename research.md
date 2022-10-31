@@ -34,7 +34,7 @@ title: Research
     <li><b>Automatic Locally Robust Estimation with Generated Regressors </b> (with J.C. Escanciano).
         <input type="checkbox" class="abstractcheckbox" id="wp2"/>
         <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
-        <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft comming soon!</div>
+        <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft coming soon!</div>
         <div class="abstractdiv">
         <p class="abstractp"> Many economic and causal parameters of interest depend on generated regressors, including
             structural parameters in models with endogenous variables estimated by control
@@ -49,10 +49,12 @@ title: Research
     </div>
     </li> 
     
-    <li>Identification and information in models parametrized by a Banach space. <input type="checkbox" class="abstractcheckbox" id="wp3"/>
-        <label for="wp3">View Abstract</label>
-    <div class="abstractdiv">
-        <p> This paper generalizes Escanciano (2021)’s identification result and
+    <li><b>dentification and information in models parametrized by a Banach space. </b>
+        <input type="checkbox" class="abstractcheckbox" id="wp3"/>
+        <label for="wp3"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
+        <div class="draftbotton"><img src="files/icons/download_pdf.png" class="icon"> Draft</div>
+        <div class="abstractdiv">
+        <p class="abstractp"> This paper generalizes Escanciano (2021)’s identification result and
         Van Der Vaart (1991)’s information result to models parametrized by a
         Banach space. It provides a general framework to study identification
         and its regularity (regular if the Fisher information is positive, irregular
