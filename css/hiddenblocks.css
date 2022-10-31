@@ -31,7 +31,7 @@ div.abstractbotton {
   margin-right: 1em;
 }
 
-div.abstractbotton:hover {background: #eee;}
+div.abstractbotton:hover {font-weight:bold;}
 
 div.draftbotton {
   cursor: pointer;
@@ -39,7 +39,7 @@ div.draftbotton {
   color: #267cb9;
 }
 
-div.draftbotton:hover {background: #eee;}
+div.draftbotton:hover {font-weight:bold;}
 
 div.comingbanner {
   display: inline-block;
