@@ -9,7 +9,7 @@ title: Research
 
 ## Job market paper
 <ul>
-        <li>The determinants of extrapolation in the binary choice model with endogenous regressors. 
+        <li>The determinants of counterfactual identification in the binary choice model with endogenous regressors. 
         <input type="checkbox" class="abstractcheckbox" id="wp1"/>
         <label for="wp1"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label> 
         <div class="draftbotton"><a href="files/wp/counterfactuals.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
