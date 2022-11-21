@@ -39,7 +39,7 @@ title: Research
     <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano).
         <input type="checkbox" class="abstractcheckbox" id="wp2"/>
         <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
-        <div class="comingbanner"><img src="files/icons/coming_pdf.png" class="icon"> Draft coming soon!</div>
+        <div class="draftbotton"><a href="files/wp/LRGenerated.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
         <div class="abstractdiv">
         <p class="abstractp"><b>Abstract:</b> Many economic and causal parameters of interest depend on generated regressors, including
             structural parameters in models with endogenous variables estimated by control
