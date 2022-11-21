@@ -42,15 +42,12 @@ title: Research
         <div class="draftbotton"><a href="files/wp/LRGenerated.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
         <div class="abstractdiv">
         <p class="abstractp"><b>Abstract:</b> Many economic and causal parameters of interest depend on generated regressors, including
-            structural parameters in models with endogenous variables estimated by control
-            functions and models with sample selection. Inference with generated regressors is complicated
-            by the complex expression for influence functions and asymptotic variances. We propose
-            automatic debiased GMM estimators in a general setting with generated regressors. 
-            Importantly, we allow for the generated regressors to be generated from machine learners,
-            such as Random Forest, Neural Nets, Boosting, and many others. We use our
-            results to construct debiased Doubly Robust (DR) estimators for the Counterfactural Average
-            Structural Function (CASF), and LR estimators for structural parameters and partial
-            effects in models with sample selection and endogeneity. </p>
+                structural parameters in models with endogenous variables estimated by control functions and in models with sample selection. 
+                Inference with generated regressors is complicated by the very complex expression for influence functions and asymptotic variances. 
+                To address this problem, we propose automatic Locally Robust/debiased GMM estimators in a general setting with generated regressors. 
+                Importantly, we allow for the generated regressors to be generated from machine learners, such as Random Forest, Neural Nets,
+                Boosting, and many others. We use our results to construct novel Doubly Robust estimators for the Counterfactural Average Structural Function 
+                and Average Partial Effects in models with endogeneity and sample selection, respectively. </p>
     </div>
     </li> 
     
