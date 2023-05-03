@@ -7,7 +7,7 @@ title: Research
 * [Behind the curtain: How did women's work history vary across Central and Eastern Europe?
 ](https://doi.org/10.1111/ecot.12345) (with E. Pronkina). Economics of Transition and Institutional Change. *Forthcoming*.
 
-## Job market paper
+## Working papers
 <ul>
         <li>The determinants of counterfactual identification in the binary choice model with endogenous regressors. 
         <input type="checkbox" class="abstractcheckbox" id="wp1"/>
@@ -29,12 +29,6 @@ title: Research
             instrument strength below which regular identification of the CASF is not possible. </p>
         </div>
     </li>
-    
-</ul>    
-
-
-## Working papers
-<ul>
     
     <li>Automatic Locally Robust Estimation with Generated Regressors (with J.C. Escanciano).
         <input type="checkbox" class="abstractcheckbox" id="wp2"/>
