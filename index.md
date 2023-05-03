@@ -11,7 +11,6 @@ I am a Postdoctoral Researcher at [BCAM - Basque Center for Applied Mathematics]
 I work on semiparametric and non-parametric identification, irregular estimation and Statistical Information, and Machine Learning estimation.
 
 ## Contact details:
-* Email: tperezizquierdo@bcamath.org.
-* Office 15.1.10.   
-  Department of Economics, Universidad Carlos III de Madrid.   
-  Calle Madrid 126, Getafe, Madrid, 28907, Spain.
+* Email: tperezizquierdo (at) bcamath (dot) org.
+* BCAM - Basque Center for Applied Mathematics.   
+  Alameda de Mazarredo 14, Bilbao, Bizkaia, 48009, Spain.
