@@ -35,13 +35,7 @@ title: Research
         <label for="wp2"><div class="abstractbotton"><img src="files/icons/abstract.png" class="icon"> Abstract</div></label>
         <div class="draftbotton"><a href="files/wp/LRGenerated.pdf"><img src="files/icons/download_pdf.png" class="icon"> Draft</a></div>
         <div class="abstractdiv">
-        <p class="abstractp"><b>Abstract:</b> Many economic and causal parameters of interest depend on generated regressors, including
-                structural parameters in models with endogenous variables estimated by control functions and in models with sample selection. 
-                Inference with generated regressors is complicated by the very complex expression for influence functions and asymptotic variances. 
-                To address this problem, we propose automatic Locally Robust/debiased GMM estimators in a general setting with generated regressors. 
-                Importantly, we allow for the generated regressors to be generated from machine learners, such as Random Forest, Neural Nets,
-                Boosting, and many others. We use our results to construct novel Doubly Robust estimators for the Counterfactural Average Structural Function 
-                and Average Partial Effects in models with endogeneity and sample selection, respectively. </p>
+        <p class="abstractp"><b>Abstract:</b>Many economic and causal parameters of interest depend on generated regressors. Examples include structural parameters in models with endogenous variables estimated by control functions and in models with sample selection, treatment effect estimation with propensity score matching, and marginal treatment effects. Inference with generated regressors is complicated by the very complex expression for influence functions and asymptotic variances. To address this problem, we propose Automatic Locally Robust/debiased GMM estimators in a general setting with generated regressors. Importantly, we allow for the generated regressors to be generated from machine learners, such as Random Forest, Neural Nets, Boosting, and many others. We use our results to construct novel Doubly Robust and Locally Robust estimators for the Counterfactual Average Structural Function and Average Partial Effects in models with endogeneity and sample selection, respectively. We provide sufficient conditions for the asymptotic normality of our debiased GMM estimators and investigate their finite sample performance through Monte Carlo simulations. </p>
     </div>
     </li> 
     
